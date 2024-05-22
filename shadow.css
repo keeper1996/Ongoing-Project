@@ -1,0 +1,45 @@
+body{
+    background-color: white;
+}
+.rat{
+    color: blue;
+    text-align: justify;
+    border-top: ;
+}
+.bord{
+   
+    text-align:right;
+    margin-block: 20px;
+    border:1px solid;
+    border-style: inset;
+
+}
+.bore{
+    text-align:left;
+    margin-block:20px ;
+    border:1px solid;
+    border-style: inset;
+    
+    border-right: ;
+
+
+}
+/* Place the navbar at the bottom of the page, and make it stick */
+.navbar {
+    color:black;
+    background-color: rgb(217, 217, 217);
+    overflow: hidden;
+    position:fixed;
+    bottom: 0px;
+    width: 100%;
+    
+
+  }
+  .ba{
+    display:block;
+  }
+  .navbar a{
+    color: black;
+
+  }
+ 
